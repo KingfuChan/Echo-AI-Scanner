@@ -1,2 +1,3 @@
 *.cfg linguist-language=Python
 *.xml linguist-language=Python
+*.json linguist-language=Python
